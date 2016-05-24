@@ -23,9 +23,9 @@ public class example {
 					array[j+1] = temp;
 				}
 			}
-			ArrayToString.toString(array);
+			//ArrayToString.toString(array);
 		}
-		System.out.println("::::::::: result ::::::::::");
+		//System.out.println("::::::::: result ::::::::::");
 		ArrayToString.toString(array);
 	}
 
